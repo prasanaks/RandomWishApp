@@ -1,0 +1,3 @@
+[submodule "RandomWishApp/RandomWishApp/Crow"]
+	path = RandomWishApp/RandomWishApp/Crow
+	url = https://github.com/CrowCpp/Crow.git
